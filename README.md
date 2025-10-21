@@ -1,4 +1,4 @@
 # hazards_dashboard
-Hazard levels visualization and tables for dashboards
-dashboard_hazlevels.ipynb - переделывает значения категорий уровней опасности в числовые. Рассчитан на использование ArcPy, нужно указать ссылку на Default.gdb и поменять регион.
-donut_plots_with_arcpy_nodata.ipynb - строит бублики и таблицы с учетом добавления колонки _nodata для случая, когда процент категории опасности нулевой для рецепиента, т. е. там нет данных.
+Hazard levels visualization and tables for dashboards \n
+dashboard_hazlevels.ipynb - переделывает значения категорий уровней опасности в числовые. Рассчитан на использование ArcPy, нужно указать ссылку на Default.gdb и поменять регион \n
+donut_plots_with_arcpy_nodata.ipynb - строит бублики и таблицы с учетом добавления колонки _nodata для случая, когда процент категории опасности нулевой для рецепиента, т. е. там нет данных
